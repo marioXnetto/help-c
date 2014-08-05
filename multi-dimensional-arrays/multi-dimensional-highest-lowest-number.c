@@ -36,6 +36,5 @@ int main (){
 
 	printf ("\n\nhig = %d\nlow = %d\n\n", hig, low);
 
-	system ("pause");
 	return 0;
 }
