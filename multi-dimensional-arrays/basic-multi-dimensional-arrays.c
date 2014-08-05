@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main (){
-
 	int matriz [4][4], i, j;
 
 	for (i=0; i<4; i++){
